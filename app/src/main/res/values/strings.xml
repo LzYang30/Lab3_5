@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string-array name="age_range">
+        <item >Less than 5</item>
+        <item >6 - 10</item>
+        <item >11 - 16</item>
+        <item >17 - 21</item>
+        <item >22 - 30</item>
+        <item >31 - 40</item>
+        <item >41 - 50</item>
+        <item >More than 50</item>
+    </string-array>
+</resources>
